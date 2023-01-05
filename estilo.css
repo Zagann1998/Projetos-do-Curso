@@ -1,0 +1,46 @@
+body{
+
+  background: grey url('fundo.png') ;/*propriedade css para fundo de página*/
+  font: 16px Arial, Helvetica, sans-serif;/*propriedade css para configurar fontes de página*/
+  width: 900px;/*propriedade css para alterar tamanho de página*/
+
+}
+
+#principal{/* #=id*/
+	width: 900px;
+}
+#menu{
+
+	background: #c5c5b2;
+	padding: 18px;/*propriedade css para espaçamento*/
+}
+
+#conteudo{
+
+	background:#e8e8d9;
+	padding: 10px;
+}
+
+a{
+	color: #4b566a;/*propriedade css para cor de item*/
+	text-decoration: none;/*propriedade css para decoração de texto*/
+	font-weight: bold;/*propriedade css para indensidade do texto*/
+	padding: 15px;
+}
+
+h1{
+
+	color: #828271;
+	font-size: 1.2em;/*propriedade css para tamanho de texto*/
+}
+
+#rodape{
+
+	text-align: center;/*propriedade css para posicionamento de texto*/
+}
+
+.img{/* .=class*/
+
+ border:solid 10px #828271;/*propriedade css para borda*/
+}
+
